@@ -1,0 +1,20 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "Curso de Closures y Scope en JavaScript Platzi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssalasm/scope-closure.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssalasm/scope-closure/issues"
+  },
+  "homepage": "https://github.com/ssalasm/scope-closure#readme"
+}
